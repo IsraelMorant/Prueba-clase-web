@@ -8,5 +8,7 @@
 * ***Periodo: Otoño 2025***
 * ***NRC:26093***
 
+Descripcion: Este proyecto tiene la finalidad de hacer un repaso de los principales comandos de UNIX, y ademas comprobar la configuracion y gestion de un repositorio de Git. Siendo GitHub la plataforma que alberga el repositorio central(Principal)
+
 
 
