@@ -6,6 +6,7 @@
 * ***Matricula: 202245166***
 * ***Materia: Desarrollo de Aplicaciones Web***
 * ***Periodo: Otoño 2025***
+* ***NRC:26093***
 
 
 
